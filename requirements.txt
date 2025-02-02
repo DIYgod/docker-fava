@@ -1,6 +1,6 @@
 beancount==3.1.0
 beancount-periodic==0.2
-beangrow==1.0.1
+beangrow @ git+https://github.com/beancount/beangrow.git@3dfbe6e8573137efcce709d928d402bfe10f2bc4
 beanprice @ git+https://github.com/beancount/beanprice.git@4f3e272d834395cd046477c7ba43cbbe855770e3
 fava==1.30
 fava-portfolio-returns @ git+https://github.com/andreasgerstmayr/fava-portfolio-returns.git@e5dc9cf913dbff2b3d5467e36b6881a1fcebcce4
