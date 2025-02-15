@@ -1,5 +1,5 @@
 beancount==3.1.0
 beancount-periodic==0.2
-fava==1.30
+fava==1.30.1
 fava-portfolio-returns @ git+https://github.com/andreasgerstmayr/fava-portfolio-returns.git@e5dc9cf913dbff2b3d5467e36b6881a1fcebcce4
 fava_investor==1.0.1
