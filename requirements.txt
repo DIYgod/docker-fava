@@ -1,4 +1,4 @@
-beancount==3.2.1
+beancount==3.2.2
 beancount-periodic==0.2.1
 fava==1.30.12
 fava-dashboards==2.0.0b7
