@@ -1,6 +1,6 @@
 beancount==3.2.3
 beancount-periodic==0.2.1
 fava==1.30.13
-fava-dashboards==2.0.0b8
+fava-dashboards==2.0.0
 fava-portfolio-returns==2.6.0
 fava_investor @ git+https://github.com/redstreet/fava_investor.git@f83db450ae3bd47d228c0fcc8b0db7b954f51d26
